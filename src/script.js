@@ -72,6 +72,7 @@ class AdvManager {
            rec.left > 0) {
         this.viewabilityTime += 1;
         this.isViewable = true;
+        this.percentOfVisibility = 100;
       } else {
         this.isViewable = false;
 
