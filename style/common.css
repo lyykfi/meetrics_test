@@ -1,0 +1,21 @@
+body {
+  height: 2000px;
+  width: 2500px;
+}
+#ad {
+  width: 300px;
+  height: 250px;
+  background: #ee7202;
+  position: relative;
+  left: 300px;
+  top: 200px;
+}
+
+#result {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  padding: 10px;
+  background: #ccc;
+  border: 1px solid #666;
+}
